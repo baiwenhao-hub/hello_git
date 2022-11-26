@@ -7,4 +7,7 @@ package com.haoge.bean;
  * @date 2022/11/26 13:23
  */
 public class Address {
+    public static void main(String[] args) {
+        System.out.println("hello");
+    }
 }
